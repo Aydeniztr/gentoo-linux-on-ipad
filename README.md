@@ -15,7 +15,7 @@ lets run gentoo linux on IPad . if you ask why because we can .d
 
 4 . click on the "import" button
 
-<img src="">
+<img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/E705DC49-0F32-4FE1-B5C2-3310B500FD32.jpeg">
      
 5 . find the file you have downloaded
 
