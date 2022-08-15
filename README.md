@@ -19,7 +19,7 @@ lets run gentoo linux on IPad . if you ask why because we can .d
      
 5 . find the file you have downloaded
 
-<img src="">
+<img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/28C5B244-85BA-4A5E-9E0C-1F9EA7954DB7.jpeg">
 
 6 . select the filesystem you have imported
 
