@@ -30,8 +30,5 @@ lets run gentoo linux on IPad . if you ask why because we can .d
 <img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/37603473-9684-4D59-A93C-381F14FE1B86.jpeg">
      
 8 . reopen the ish
-
-<img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/4D45B52A-2B0E-41EC-8421-6226C8C986EC.jpeg">
-     
      
 ## thats it !!!
