@@ -23,7 +23,7 @@ lets run gentoo linux on IPad . if you ask why because we can .d
 
 6 . select the filesystem you have imported
 
-<img src="">
+<img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/80C2A3C1-CDFB-4F3B-9328-09CA30284A0F.jpeg">
 
 7 . click on the "boot from this file system" section
 
