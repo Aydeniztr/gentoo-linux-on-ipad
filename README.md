@@ -9,31 +9,27 @@ lets run gentoo linux on IPad . if you ask why because we can .d
 
 <img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/A73D71F2-3154-4759-91FE-F07878A084AA.jpeg">
 
-3 . enter the settings of the ish
+3 . click on the "filesystems" section
 
 <img src="">
 
-4 . click on the "filesystems" section
-
-<img src="">
-
-5 . click on the "import" button
+4 . click on the "import" button
 
 <img src="">
      
-6 . find the file you have downloaded
+5 . find the file you have downloaded
 
 <img src="">
 
-7 . select the filesystem you have imported
+6 . select the filesystem you have imported
 
 <img src="">
 
-8 . click on the "boot from this file system" section
+7 . click on the "boot from this file system" section
 
 <img src="">
      
-9 . reopen the ish
+8 . reopen the ish
 
 <img src="">
      
