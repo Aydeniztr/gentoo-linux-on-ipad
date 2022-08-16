@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/1712F9E0-85CB-492F-AB85-D94B8AA113BF.png">
 
 # gentoo-linux-on-ipad
 lets run gentoo linux on IPad . if you ask why because we can .d
