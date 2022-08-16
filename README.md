@@ -1,5 +1,7 @@
 <img src="https://github.com/Aydeniztr/gentoo-linux-on-ipad/raw/main/1712F9E0-85CB-492F-AB85-D94B8AA113BF.png">
 
+# installation
+
 lets run gentoo linux on IPad . if you ask why because we can .d
 
 1 . download the tar.gz file from <a href="https://drive.google.com/file/d/1qqCvzCd5pyVJm4Y8Fr4ptR5Rag8Kh9uM/view?usp=drivesdk">here</a>
